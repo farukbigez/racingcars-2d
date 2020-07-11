@@ -1,2 +1,2 @@
 # racingcars-2d
- my stupid 2d game to pass Graphic&Animation class
+ *my stupid 2d game that I made for passing Graphic&Animation class*
